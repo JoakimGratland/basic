@@ -243,3 +243,8 @@ Laying in my bed
 writing a haiku on git
 should've had dark mode
 -Simon H
+
+A Haiku I wrote
+On a Friday so frosty
+Weekend now no code
+- Erlend
